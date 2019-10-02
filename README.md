@@ -12,3 +12,9 @@ To get started, read through all the articles to learn some basic high-level Neu
   - [Extracting Event Related Potentials](http://learn.neurotechedu.com/erp/).
   - [Projects and Apps](http://learn.neurotechedu.com/projects/).
   - [New Emerging Technologies](http://learn.neurotechedu.com/emerging_tech/).
+
+## Intro to Neuroscience 
+  - [The Nervous System](http://learn.neurotechedu.com/the_nervous_system/)
+  - [Ceullular Components](http://learn.neurotechedu.com/cellular_components/)
+  - [Neuroanatomy and Brain Organization](http://learn.neurotechedu.com/neuroanatomy_and_brain_organization/)
+  - [Brain Diseases and Disorders](http://learn.neurotechedu.com/brain_diseases_and_disorders/)
