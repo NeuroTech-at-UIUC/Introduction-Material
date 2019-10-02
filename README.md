@@ -1,6 +1,6 @@
 # Introduction-Material
 Welcome to NeuroTech @ UIUC!
-To get started, read through all the articles to learn the basic concepts and terminology of Neurotech. 
+To get started, read through all the articles to learn some basic high-level Neurotech concepts. 
 
 ## Basics of BCI 
   - [Introduction to BCI](http://learn.neurotechedu.com/introtobci/).
