@@ -2,7 +2,7 @@
 Welcome to NeuroTech @ UIUC!
 To get started, read through all the articles to learn the basic concepts and terminology of Neurotech. 
 
-## Basics of BCI (a High-Level overview)
+## Basics of BCI 
   - [Introduction to BCI](http://learn.neurotechedu.com/introtobci/).
   - [Existing BCI Applications](http://learn.neurotechedu.com/applications/).
   - [BCI Headsets](http://learn.neurotechedu.com/headsets/).
